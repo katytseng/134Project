@@ -1,0 +1,6 @@
+Data
+.env
+.ipynb_checkpoints
+*.ipynb
+*.csv
+data-processing.py
