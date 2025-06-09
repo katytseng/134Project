@@ -1,0 +1,5 @@
+### Description
+This project aims to predict the popularity of a business, as measured by the Yelp rating and review count, given categorical information about a business and demographic information about its location. Data for the businesses taken from the [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/) and demographic information is pulled from the [U.S. Census API](https://api.census.gov/data/2020/dec/dp.html) at the Census Place geography using the [Census geocoding API](https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.html). 
+
+### Project/File Outline
+Information about the general project process and specific purpose of the files is in *.Project_Outline.ipynb*. Data was stored locally as .csv and .json files, which were not uploaded to GitHub.

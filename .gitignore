@@ -1,6 +1,7 @@
 Data
 .env
 .ipynb_checkpoints
-*.ipynb
+__pycache__
 *.csv
-data-processing.py
+*.json
+*.pkl
